@@ -1,2 +1,3 @@
-# read.R_code-WORM
-read R source code files
+# read.R_code (WORM)
+
+[README](https://github.com/dmparrishphd/read.R_code/blob/main/README.md).
